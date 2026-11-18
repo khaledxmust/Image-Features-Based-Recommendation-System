@@ -1,0 +1,9 @@
+# Target Python 3.11. Install the CPU or CUDA PyTorch build suitable for your machine.
+Flask>=3.0,<4
+python-dotenv>=1.0,<2
+Pillow>=10.4,<12
+numpy>=1.26,<2
+opencv-python-headless>=4.8,<4.12
+torch>=2.2,<3
+kornia>=0.7.3,<0.9
+requests>=2.32,<3
